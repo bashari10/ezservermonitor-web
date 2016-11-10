@@ -1,5 +1,6 @@
 <?php
 /*
+Plugin Name: WP EZ Server
 Plugin URI:  
 Description: 
 Version:     0.1
